@@ -1,8 +1,9 @@
 # e_commerce
 
-A new Flutter project.
+A commercial application
 
-## Getting Started
+Practicing on my first Flutter application, and first things first `UI`
+
 
 This project is a starting point for a Flutter application.
 
